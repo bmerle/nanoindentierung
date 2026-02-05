@@ -4,4 +4,4 @@ Dieses Projekt zeigt, wie unüberwachtes Lernen (KMeans, GMM) genutzt wird, um N
 
 Universität Kassel, 2026
 
-Skript und Daten von T. Arold, modfiziert durch B. Merle
+Skript und Daten von T. Arold, ergänzt durch B. Merle
